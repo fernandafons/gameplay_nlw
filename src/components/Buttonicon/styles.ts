@@ -9,7 +9,7 @@ export const styles = StyleSheet.create({
         borderRadius: 8,
         flexDirection: 'row',
         alignItems: 'center',
-        marginBottom: 20 //inseri por conta própria
+        // marginBottom: 20 //inseri por conta própria
     },
     title: {
         flex: 1,
